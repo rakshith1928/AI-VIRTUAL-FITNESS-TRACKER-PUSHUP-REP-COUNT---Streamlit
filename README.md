@@ -23,10 +23,10 @@ AI Push-Up Coach counts push-up repetitions in real-time using a webcam. It uses
 ---
 
 ## Installation
-1. Clone the repository:
+ Clone the repository:
    ```bash
-   git clone <repository-url>
-
+   git clone <https://github.com/rakshith1928/AI-VIRTUAL-FITNESS-TRACKER-PUSHUP-REP-COUNT---Streamlit.git>
+```
 ## Install dependencies:
    ```bash
    pip install opencv-python mediapipe numpy streamlit
