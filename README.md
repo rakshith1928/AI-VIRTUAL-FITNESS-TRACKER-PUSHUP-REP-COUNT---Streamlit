@@ -34,4 +34,5 @@ AI Push-Up Coach counts push-up repetitions in real-time using a webcam. It uses
 ## Run the Streamlit app:
   ```bash
   streamlit run app.py
-
+````
+[Watch the demo video](https://drive.google.com/file/d/1QIr2OXh5PyNmWWPLG6ArUTEiS3e595DW/view?usp=drive_link)
